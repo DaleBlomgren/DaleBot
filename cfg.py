@@ -7,7 +7,7 @@
 HOST = "irc.twitch.tv"
 PORT = 6667
 NICK = "dalesbot"
-PASS = "oauth:femjbqi7hdj5ioznfk1y9taq928y19"
+PASS = "oauth:enteryouroauthhere"
 CHAN = "#daleblomgren"
 RATE = (20/30)
 PATT = [
